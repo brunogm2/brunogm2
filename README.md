@@ -2,6 +2,8 @@
 
 <img width="100%" src="https://uploaddeimagens.com.br/imagens/JoA_lAA" alt="my banner">
 
+<img src="https://i.ibb.co/GkcdwF7/github-header-image.png" alt="github-header-image" border="0">
+
 ## 💫 Liitle Bit More About Me
 <p>🔭 I'm currently working on Alphacode</p>
 <p>🌱 I'm currently learning <strong>JavaScript, ReactJS, React Native, Angular, Ionic, TypeScript, NodeJS, PHP</strong></p>
