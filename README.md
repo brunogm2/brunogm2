@@ -35,10 +35,6 @@
 <p>
 </p>
 
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=brunogm2">
-</p>
 
 ## 📊 Github Status
 
