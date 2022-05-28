@@ -1,4 +1,4 @@
-<img width="100%" src="https://i.ibb.co/GkcdwF7/github-header-image.png" alt="github-header-image" border="0">
+<img width="100%" src="https://i.ibb.co/bdc4Ths/github-header-image-1.png" alt="github-header-image" border="0">
 
 <p>🔭 I'm currently working on Alphacode</p>
 <p>🌱 I'm currently learning <strong>JavaScript, ReactJS, React Native, Angular, Ionic, TypeScript, NodeJS, PHP</strong></p>
