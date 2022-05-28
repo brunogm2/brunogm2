@@ -6,7 +6,7 @@
 <p>🔭 I'm currently working on Alphacode</p>
 <p>🌱 I'm currently learning JavaScript, ReactJS, React Native, Angular, Ionic, TypeScript, NodeJS, PHP</p>
 <p>💬 Ask me about Technology</p>
-<p>📫 How to reach me? https://www.linkedin.com/in/brunogm2/</p>
+<p>📫 How to reach me? <a href="https://www.linkedin.com/in/brunogm2/">Linkedin<a/></p>
 <p>⚡ Fun Fact: Best Counter-Strike player.</p>
 
 ## 💻 Skills
