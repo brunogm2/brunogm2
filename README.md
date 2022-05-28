@@ -1,6 +1,6 @@
 
 
-<img width="100%" src="https://ibb.co/VwbmrWj" alt="my banner">
+<img width="100%" src="https://uploaddeimagens.com.br/imagens/JoA_lAA" alt="my banner">
 
 ## 💫 Liitle Bit More About Me
 <p>🔭 I'm currently working on Alphacode</p>
