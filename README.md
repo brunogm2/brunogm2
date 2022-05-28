@@ -4,9 +4,9 @@
 
 ## 💫 Liitle Bit More About Me
 <p>🔭 I'm currently working on Alphacode</p>
-<p>🌱 I'm currently learning JavaScript, ReactJS, React Native, Angular, Ionic, TypeScript, NodeJS, PHP</p>
+<p>🌱 I'm currently learning <strong>JavaScript, ReactJS, React Native, Angular, Ionic, TypeScript, NodeJS, PHP</strong></p>
 <p>💬 Ask me about Technology</p>
-<p>📫 How to reach me? <a href="https://www.linkedin.com/in/brunogm2/">Linkedin<a/></p>
+<p>📫 How to reach me? <a href="https://www.linkedin.com/in/brunogm2/" target="_blank">Linkedin<a/></p>
 <p>⚡ Fun Fact: Best Counter-Strike player.</p>
 
 ## 💻 Skills
