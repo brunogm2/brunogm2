@@ -1,13 +1,12 @@
 <img width="100%" src="https://i.ibb.co/GkcdwF7/github-header-image.png" alt="github-header-image" border="0">
 
-## 💫 Liitle Bit More About Me
 <p>🔭 I'm currently working on Alphacode</p>
 <p>🌱 I'm currently learning <strong>JavaScript, ReactJS, React Native, Angular, Ionic, TypeScript, NodeJS, PHP</strong></p>
 <p>💬 Ask me about Technology</p>
 <p>📫 How to reach me? <a href="https://www.linkedin.com/in/brunogm2/" target="_blank">Linkedin<a/></p>
 <p>⚡ Fun Fact: Best Counter-Strike player.</p>
 
-## 💻 Skills
+## 💻 Tech Stack
 <p>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px">
