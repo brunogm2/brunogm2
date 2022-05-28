@@ -30,4 +30,4 @@
 
 ## 📊 Github Status
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=brunogm2&show_icons=true"><p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunogm2&layout=compact"><p>
